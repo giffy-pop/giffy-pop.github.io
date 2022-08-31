@@ -1,19 +1,19 @@
 {
     "entries": [
         {
-            "svg": "<svg class='w-100' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><polygon points='12 2 2 7 12 12 22 7 12 2'></polygon><polyline points='2 17 12 22 22 17'></polyline><polyline opacity='.4' points='2 12 12 17 22 12'></polyline></svg>",
-            "title": "Tasks planner",
+            "svg": "<img src='src/assets/images/fave-emoji.gif' class='gifs-regular'></img>",
+            "title": "All your emojis in one place",
             "description": "Plan and schedule your weekly tasks on web or mobile through our desktop or mobile apps."
         },
         {
-            "svg": "<svg class='w-100' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><rect x='4' y='4' width='16' height='16' rx='2' ry='2'></rect><rect opacity='.3' x='9' y='9' width='6' height='6'></rect><line x1='9' y1='1' x2='9' y2='4'></line><line x1='15' y1='1' x2='15' y2='4'></line><line x1='9' y1='20' x2='9' y2='23'></line><line x1='15' y1='20' x2='15' y2='23'></line><line x1='20' y1='9' x2='23' y2='9'></line><line x1='20' y1='14' x2='23' y2='14'></line><line x1='1' y1='9' x2='4' y2='9'></line><line x1='1' y1='14' x2='4' y2='14'></line></svg>",
-            "title": "Team collaborations",
-            "description": "Invite unlimited team members to view, edit, comment and create landing pages with you."
+            "svg": "<img src='src/assets/images/kaomoji-emoji.gif' class='gifs-wide'></img>",
+            "title": "Kaomoji's at your fingertip!",
+            "description": "Easily find the right emoji with fuzzy search."
         },
         {
-            "svg": "<svg class='w-100' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><circle cx='18' cy='18' r='3'></circle><circle cx='6' cy='6' r='3'></circle><path opacity='.4' d='M13 6h3a2 2 0 0 1 2 2v7'></path><line opacity='.4' x1='6' y1='9' x2='6' y2='21'></line></svg>",
-            "title": "Version control",
-            "description": "Full integration with Git, GitLab and Bitbucket to easily allow version control."
+            "svg": "<img src='src/assets/images/nyancat-rainbow-cat.gif' class='gifs-regular'></img>",
+            "title": "Easily access your favourite GIFs",
+            "description": "Invite unlimited team members to view, edit, comment and create landing pages with you."
         }
     ]
 }
